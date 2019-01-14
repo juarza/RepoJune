@@ -10,6 +10,7 @@ namespace Tuto_Git1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hola, Mundo de mierda, putaaaaa");
         }
     }
 }
